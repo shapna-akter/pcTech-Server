@@ -1,3 +1,1 @@
-# pc-builder-backend
-
-### Live Link- https://localhost
+#### Client-Side: https://github.com/shapna-akter/pcTech-client
