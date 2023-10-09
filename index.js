@@ -107,7 +107,6 @@ async function run() {
       const query = {};
       const options = categories.find(query);
       const result = await options.toArray();
-      console.log(result, "hello");
       res.send(result);
     });
 
